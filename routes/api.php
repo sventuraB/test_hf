@@ -50,7 +50,7 @@ Route::post('/userinfo', 'App\Http\Controllers\AuthController@infouser')->middle
  *  Si fechas van vacias, devolvera todas las ventas.
  * 
  * Reporte2: Reporte de uiso de insumos.
- * id_pocion -> id de la pocion o pociones. Si va vacio, devovlera todaas las pociones
+ * id_pocion[] -> id de la pocion o pociones. Si va vacio, devovlera todaas las pociones
  * fecha1 ->fecha inicio para filtro por fechas.
  * fecha2 ->fecha fin para filtro por fechas
  *  Si fechas van vacias, devolvera todas las ventas.
