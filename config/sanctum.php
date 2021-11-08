@@ -30,7 +30,7 @@ return [
     |
     */
 
-    'expiration' => null,
+    'expiration' => 180, //Tiempo duracion token 3 horas
 
     /*
     |--------------------------------------------------------------------------
