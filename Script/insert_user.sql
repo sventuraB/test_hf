@@ -1,0 +1,1 @@
+INSERT INTO users (id, name, email, email_verified_at, password, remember_token, created_at, updated_at) VALUES(2, 'hey Food', 'ejemplo@example.com', NULL, '$2y$10$fZHlQzjQOpgjMT0n63ut8uFI8R/LC2U2poEcGqkp9iFv.P00.kRQO', NULL, '2021-11-05 18:35:46', '2021-11-05 18:35:46');
